@@ -1,5 +1,3 @@
-[Voltar](./readme.md)
-
 # Primeira aula de Logica de programação
 
 comandos:
